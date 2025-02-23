@@ -382,18 +382,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decb
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_VevoPop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Müzik",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 
+# * » Bein Sports Kanallar « * #
 
-# * » Rahatlatıcı « * #
-#EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
-https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-
-#EXTINF:-1 tvg-name="Şelale" tvg-language="English" tvg-country="USA" tvg-id="Rahat_Selale" tvg-logo="https://i.ytimg.com/vi/uW-468cP5Rk/hqdefault.jpg" group-title="Rahatlatıcı",Şelale
-https://ythls.kekikakademi.org/youtube/video/2OM7adQl-YQ.m3u8
-
-#EXTINF:-1 tvg-name="Doğa" tvg-language="English" tvg-country="CA" tvg-id="Rahat_Doga" tvg-logo="https://i.ytimg.com/vi/mbqiXyhQbFQ/hqdefault.jpg" group-title="Rahatlatıcı",Doğa
-https://ythls.kekikakademi.org/youtube/video/mbqiXyhQbFQ.m3u8
-
-------------------------------
 #EXTINF:-1,TR: BEIN SPORTS HABER
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139969
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="YMBK",BEIN SPORTS 1 
