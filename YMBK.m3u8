@@ -386,11 +386,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b
 
 #EXTINF:-1,TR: BEIN SPORTS HABER
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139969
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="YMBK",BEIN SPORTS 1 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="YMBK",BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 FHD
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/151
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="YMBK",BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 FHD
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/160
 #EXTINF:-1 tvg-name="TR: bieN SP0RT 2 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 2
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
@@ -420,9 +420,9 @@ http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/165
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/166
 #EXTINF:-1 tvg-name="TR: bieN CONNECT 6 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 6 maczamani
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/167
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: S Sport 1 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="YMBK",TR: S Sport 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: S Sport 1 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Bein Sports",TR: S Sport 1 HD
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/ss1.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: S Sport 2 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="YMBK",TR: S Sport 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: S Sport 2 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Bein Sports",TR: S Sport 2 HD
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/ss2.m3u8
 #EXTINF:-1,TR: Exxen SPOR 1
 https://bcovlive-a.akamaihd.net/88affc2b8d9845d9adb0f4a22db27653/eu-central-1/6415845530001/playlist.m3u8
