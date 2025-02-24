@@ -436,7 +436,9 @@ https://bcovlive-a.akamaihd.net/764299a9db4b429aa9250edc9e791156/eu-central-1/64
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 #EXTINF:-1,TR: EUROSPORT 2
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+#EXTINF:-1,TR: BLUTVPLAY1
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
+#EXTINF:-1,TR: BLUETVPLAY2
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
 Tabi =https://v.arectv13.sbs/static/tabi.m3u8
 #EXTINF:-1 tvg-name="TR: tabii Spor 1 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 1 FHD
@@ -625,9 +627,9 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140000
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139930
 #EXTINF:-1,TR: BEIN IZ HD
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139993
-#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH KIDS  ۩๑๑۩๑๑۩
+#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH ÇOCUK  ۩๑๑۩๑๑۩
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3116
-#EXTINF:-1,۩๑๑۩๑๑۩ TR MUZIK  ۩๑๑۩๑๑۩
+#EXTINF:-1,۩๑๑۩๑๑۩ TR ULUSAL  ۩๑๑۩๑๑۩
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/17461
 #EXTINF:-1,TR: ULKE TV HD
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139919
@@ -739,46 +741,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://warstvpro2024.serv00.net/xrot/g
 https://api.codetabs.com/v1/proxy/?quest=https://warstvpro2024.serv00.net/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2ODkyOTc1MjdlMjJjNmM0ZDJhZjU=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKEY",24 |H
 https://api.codetabs.com/v1/proxy/?quest=https://warstvpro2024.serv00.net/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDI5Mzc5MzI5OTlhZWNkNzU0NTc=
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="TR > Müzik",TRT Müzik
-http://stream.tvcdn.net/muzik/trt-muzik.m3u8
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="TR > Müzik",Dream Türk
-http://stream.tvcdn.net/muzik/dream-turk.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="TR > Müzik",Powertürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="TR > Müzik",Power TV
-http://stream.tvcdn.net/muzik/power-tv.m3u8
-#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="TR > Müzik",Kral Pop TV
-http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
-#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="TR > Müzik",Number One TV
-http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="TR > Müzik",Number One Türk
-http://stream.tvcdn.net/muzik/number-one-turk.m3u8
-#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="TR > Müzik",Milyon TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="TR > Müzik",Tatlıses TV
-http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
-#EXTINF:-1 tvg-id="TMB.tr" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" group-title="TR > Müzik",TMB
-http://stream.tvcdn.net/muzik/tmb.m3u8
-#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png" group-title="TR > Müzik",Power Dance
-http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="TR > Müzik",Power Love
-http://stream.tvcdn.net/muzik/power-love.m3u8
-#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="TR > Müzik",Powertürk Akustik
-http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
-#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="TR > Müzik",Powertürk Slow
-http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="TR > Müzik",Powertürk Taptaze
-http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
-#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="TR > Müzik",Number 1 Aşk
-http://stream.tvcdn.net/muzik/number-1-ask.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="TR > Müzik",Number 1 Damar
-http://stream.tvcdn.net/muzik/number-1-damar.m3u8
-#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="TR > Müzik",Number 1 Dance
-http://stream.tvcdn.net/muzik/number-1-dance.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="TR > Müzik",Müzik TV
-http://stream.tvcdn.net/muzik/muzik-tv.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop"tvg-id="Muzik_VevoPop"tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChan
+
 
 # * » Dini « * #
 
@@ -836,4 +799,96 @@ http://stream.tvcdn.net/dini/kanal-hayat.m3u8
 http://stream.tvcdn.net/dini/abn-turkey.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png" group-title="TR > Dini",Mukabele TV
 http://stream.tvcdn.net/dini/mukabele-tv.m3u8
-
+#EXTINF:-1,۩๑๑۩๑๑۩  WATCHED IP TV YAYINLARI ۩๑๑۩๑๑۩
+⚡SPOR",TR: beIN Sports 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tcydFpdWNz76fgQcycsUmsI/m3u8
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="TR: beIN Sports 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fU8uWcHqvT66aifJfmYAVCinLHM_EtOBu-WE1ZPQKqN4MHF5cYwQCzITO1pOlUPiImrZ-WtdEp_V_VKr_9dfr9n.png" group-title="TR ⚡SPOR",TR: beIN Sports 3
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWcys_LR9jR_CoLfXe5qJtE/m3u8
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="TR: beIN Sports 4" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUVO8XwNd5C7tkltSf0Ri1MDLlXaRNYNwp44uoauhUQe2iOevbNiijaD6VAFDhXf2yrdHKiOm-zkeMBDmMNIlqU.png" group-title="TR ⚡SPOR",TR: beIN Sports 4
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tbVxD6u5nWk5hQTeFMz_10U/m3u8
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="TR: beIN Sports 5" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVxuoNalniagEwM2F5b0DozfT2q1ekMnsp6YTvP5M4O7-QDy_UI6MxCqhW0EnpCG_UOwjbd-AtM9WoVJ8YhyNOG.png" group-title="TR ⚡SPOR",TR: beIN Sports 5
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4ta3I2YNBl8g5T_zn2xurPdE/m3u8
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="TR: beIN Sports Haber" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWREJHofvgk8Ed1rzG6aB2WrozXDL4OqeoVw2MnZIccvW3RqiFRdG5ZKxysSmA4K6EKoBrw081lEJBc2Nrjxh5X.png" group-title="TR ⚡SPOR",TR: beIN Sports Haber
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tZGP5LIZR2rNirDfy_ib4C8/m3u8
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="TR: beIN Sports Max 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fW9sjQiItoSqlVdK_whwczCiQxCixh4k8D9T_4NVQyODQd1U6jutoTzoo5jIa_5q4D6tW1QYBiepeLJ5AOOxxSW.png" group-title="TR ⚡SPOR",TR: beIN Sports Max 1
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdwe7OmtiwUylao5S5j3LJ8/m3u8
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="TR: beIN Sports Max 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUw5m3QD79SKTr2M5jeC6-J48ua6qPTpbuuvyZFtO-nkjaofYBP8OpkAdun6XG16gAFo_5IY_OGi63HTurXtOUR.png" group-title="TR ⚡SPOR",TR: beIN Sports Max 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWBAw6Hl2nyTPMEQJCi81jw/m3u8
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="TR: CosmoSports" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Z8AeOlMommEkhduiGVcmmXfwhXu5a1ONKMsewE-hhGW.png" group-title="TR ⚡SPOR",TR: CosmoSports
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tS3vNyBPyWUq-A08aRy2xi4/m3u8
+#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWFbtyaW33cA6vzMEY_p5omMlrpaNFJVlnbCYOmaASDHn_72ntvmR0pVKY1rrVH_sorjXLMgEZiveoeTn7bE9Vx.png" group-title="TR ⚡SPOR",TR: Eurosport 1
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tSl9DsotwkLJU4XBOhlYT3k/m3u8
+#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXxSdxyzDng6G5CcEZRCM4PITsMsLMsrHO0to55nt7-dZCc58bF0w5ZZBw49zoleIFF7sRjs6OVRwepAW0qcGYc.png" group-title="TR ⚡SPOR",TR: Eurosport 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdbyue20JAiVw9KEWiGIY1k/m3u8
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="TR: NBA TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVRHnYF62pMxWWSrd4q92SVbkESQ49jmgHyTToDDgj-76za9iIquLkW4bJvoheSDFjPI5mFWXRbKgB7-oY32Lzh.png" group-title="TR ⚡SPOR",TR: NBA TV
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWwrhzyahbdOJe1OA7jc3-w/m3u8
+#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="TR: S Sport" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXLup3OEnBv_ak618ApIntgyHSpMSHEOxwchSf-60mutO1ZwH6tiMqfHwPEU3CFv49VXWXEFgKIF24d4gA770MD.png" group-title="TR ⚡SPOR",TR: S Sport
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tbaxoL8vUD8oR0CoRtJPTIU/m3u8
+#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="TR: S Sport 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWVwVREglCi4vi5YCYgTor98RWPJ2QKR4Ol_NQbEbwbxN97JZCCBh4kICNeGx5_3-1M3_CEpAwiKJzj6omRKnxc.png" group-title="TR ⚡SPOR",TR: S Sport 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tba78fhZ9PFklOQyTnugqJ0/m3u8
+#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="TR: Spor Smart" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVVswtyAz9UyoWdh5iGnOR7BxevyPvtR5mrOEv0Wmnnj8lupBPteyE-x6XOwh_gCvV3PNHlq5qaoGsQn315bbG3.png" group-title="TR ⚡SPOR",TR: Spor Smart
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tY1tesEIUzlUL33iZ83BX6I/m3u8
+#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="TR: Spor Smart 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUAJ0La3KMEZNRdxwkAl_549IEjPLJZAc6q_MY8eObWFW2tqss5lNUyuDdZ3kn0ae6W35FBFNklxsSJfXVbFmB7.png" group-title="TR ⚡SPOR",TR: Spor Smart 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRlLfWUtUhFd_sqVssfb7Y8/m3u8
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="TR: Sports TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXQ8Wm7lcdbMOLdHfJGFJyuBbm3yuyOgZ96ONcNdeBxBbhFIoDw3VoepUacJlKdKT1B_gZtgdH56hIFLuDNgnHx.png" group-title="TR ⚡SPOR",TR: Sports TV
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4td4ybftNxrHwAQIcmLpNXDk/m3u8
+#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="TR: Tabii Spor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tZde1yDYR_p_KYuLz5eRgz8/m3u8
+#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="TR: Tabii Spor 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 1
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tVVJ3w7KB2mrwcE8w99iT1g/m3u8
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="TR: Tabii Spor 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tfQ5mISdZWujWOzDxeyAxsw/m3u8
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="TR: Tabii Spor 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 3
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4taXy4seS4-XWCcOe8jPwtjM/m3u8
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="TR: Tabii Spor 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 4
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tXk_boqbCEeYmf8hPiZ_pIg/m3u8
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="TR: Tabii Spor 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 5
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tfn4o5JeMNuISs_zeiFqy4Y/m3u8
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="TR: Tabii Spor 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 6
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRs7nReJtEd54H8AzOXJnhk/m3u8
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="TR: FB TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fW8MRG7ox9l7POjJwYIQycXwkI-jfjz-XwFEvXopQkfyQHmwPKrucb7jrcferPR2o4zKW3hmsok0ROGiy0PEHGp.png" group-title="TR ⚡SPOR",TR: FB TV
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4td6A3drbV07BPqk4rlWXbDM/m3u8
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="TR: Galatasaray TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVP2E7TccDFgxN0E6Vtt_jWBHBvtia8AzCX-sCjHLRIIRgrG3XmIJCmFagRkjHrAOtNEBM27mkm43woH6SlN4z0.png" group-title="TR ⚡SPOR",TR: Galatasaray TV
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tR-Ny2PoB-g3xArySgbAyOk/m3u8
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="TR: A Spor" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXNxTLQxjL-yl0P8JeUdA76QtC8ih1rcI7k_4Mou5Nw1MYK8LiZfwLljqd0kYK58MDwPpuW8G6FKm9xZFRSMOCe.png" group-title="TR ⚡SPOR",TR: A Spor
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tTrsOEZ7ldCx3zmz0cdThnI/m3u8
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="TR: TAY TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUu9ClS-4rzhhliivZZ7aia0mXkLusi5Ydzg9glbwJ5xRzqx5mfHJLdZq9oB-EEOyWjsxPjU32eB20Rr9a-ucUP.png" group-title="TR ⚡SPOR",TR: TAY TV
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdSNbM9Ov659Xl74ziIaV5Y/m3u8
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="TR: Tivibu Spor" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUY11vZbpedtOc9TEPZ4rgvF4qWMJkBTJl81OkHRof5l2WMuXBBhr8Ho8HRjzxccIaA5tXvdzXHmENynY_JGQN2.png" group-title="TR ⚡SPOR",TR: Tivibu Spor
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tenGtVlRpNIE-Vl6zw00dlU/m3u8
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVgJrb5J7x9_XPEuL4bpGWwqHyv9TyHChyuH6gN-klN4jgIVNHBGvrIAfUjEhyI_hygj9Mu9ihhstEX1ydj5HRP.jpeg" group-title="TR ⚡SPOR",TR: Tivibu Spor 1
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tZqJUtZPkBz5XI0AyN89aWA/m3u8
+#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUz0bvSlfrVugBCrlAPN3TQGIjnGhVGwQTlxkN5AQzfzom5rWIc0z0z1J2_dV1Lp5I7W9bdtOp66hzOodfwB2K_.png" group-title="TR ⚡SPOR",TR: Tivibu Spor 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tVDlsknNxt92YoPpAUd6t_0/m3u8
+#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXOfqBXKHSRL_z898iQ-AGF0kOKCSMigBjZF_Fraob_xQXx1gdhK16od_G8Z99rZTngWSstHGpp--dlznTYEqwX.png" group-title="TR ⚡SPOR",TR: Tivibu Spor 3
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tW5MWiUOujZmplQWQD87JMs/m3u8
+#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="TR: Tivibu Spor 4" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWuhr5dk-cxXar_MGYNNbJJv-cgyJ7d8kJQiyBozx5aMMrVx_-PaiFQSRwWi4VOPwX6F_YEUu97wMxKCmu74aiw.png" group-title="TR ⚡SPOR",TR: Tivibu Spor 4
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWSiGN9W-wOJShFzS8r1d-w/m3u8
+#EXTINF:-1 xui-id="82" tvg-id="" tvg-name="TR: beIN Box Office 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUuY6uWtoolRVpB-v4346VoW5tASsoZoNMw8nGYodeySkQgjdGxM8wxkPe7iB1v_9T8T_Fl-3SsPwRcGOIC_kzI.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office 1
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdxi_RBEgxUbvuSmfFstON4/m3u8
+#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tfsZBu45Rvl7O1jgYxe9IpU/m3u8
+#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUW_-iEVz0arYGu1whNM-Cv5-crk7k2UE1oez04eJv37w_5z6RVQB1k34wfMhVr7O19s_RiFy9-KoPR1EWmsRzR.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office 3
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tQq4OAbk67Y7UlA3ESpasD4/m3u8
+#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fW67UL2CT3DSEXvhzkiYkNiXvClWTQX8AGF_SltpUm-D60xDt4-xRFhLBX8XE5A92U1dNiUZgUs2k3KQH8lAXGq.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office Turk
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tXjSpmxfXKDHi7KgtcfR2y4/m3u8
+#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="TR: beIN Movies Action" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUODXXC41EXzaTGNVkRerqdQtMWMK2jaoDgos2ZFzrc56x3aMpVlCnnVER3FL9bToJVPkaDb8RKpvkak29WUZsA.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Action
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tX6UsHvFtxOuB2B7NuBRhgs/m3u8
+#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="TR: beIN Movies Family" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWQcBzUgV_ybdByccjoF9hCYthOQ5SNLf6cWRnb-dtvj36pzwTSArDRrg6yaX-5lWvdFVocf8nbnqemg4S8BLjj.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Family
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRlEzaXRLflag2n7vbOmJz4/m3u8
+#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="TR: beIN Movies Premiere" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWBNAHj82av6JxHrDQ48iNDlTbeAcIGzfSDzfPOSQdZ-XcE7WvuSOZ3WsFOlvuf5iYn40pz5tuFt9QbS6xuNfb7.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Premiere
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWKXoVXHm-pi9QmlqwRq-LE/m3u8
+#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVhIbfxHoTAjYpJAoTk0_b46Sf8saiCV4zz5o2V-bmI7XRizfaQI9bx6aR3UhyKJ-WI9qThk97fdr0hJyL9Q_lQ.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Premiere 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tVPgv36RMmkmbC_T1O3LkSA/m3u8
+#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="TR: beIN Movies Stars" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Stars
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4td_R4ie-L3cKx1ZAo-tyEUY/m3u8
+#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="TR: beIN Movies Turk" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUooTJjQ6g8vd5UY1sDeBPmV5Y_uIYF5O9rcPPXdq2GXkTgPQqL_dh7SV355qBLj33_sRx_f-vj3DPPwhLBuy4q.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Turk
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4taym6FB8DtS8ubnVWvNV4FQ/m3u8
+#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWF3QvAxqv-4NfdnRjEi2-vLJJDTnSs5P1L-_wUDVuTBcaxF2QsYlMgrNvEA3a2EU9rCMm23P-Lm7jM2h6uEVGG.png" group-title="TR ⚡SİNEMA",TR: beIN Series 1
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tYyo4SuTx3IdlPxfTnllJE0/m3u8
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVhQU9ww712IDRx4B57KQsdeMx1fGiJbPxhSagfREwrY2LYR6O3M5NwdcuUoVLszj4UYV1lKsgNXMFJBdLogQ4-.png" group-title="TR ⚡SİNEMA",TR: beIN Series 2
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tW_AwyoXVLxKx25inW-c6XA/m3u8
+#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXKZQV1Z2ywqChhtfK4SSR4JYkXhtzOg7t39MsLXWJ-NH7SpGwjgjmm7t0O-v4qraktdCdSs0QExUlvKielSLFv.png" group-title="TR ⚡SİNEMA",TR: beIN Series 3
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRdXZmh88itIutWTpBwLUb4/m3u8
+#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXX1h-WmKIN0oGsY3E3lSekCr6StXpCVlDdHJ0TxmHMSs75tdNSB0ca9hMjqyLL-mKkiqD7g8bAslJV72aJjj88.png" group-title="TR ⚡SİNEMA",TR: beIN Series 4
+https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tYRPyRKNu94QIhNUU1D7rHM/m3u8
