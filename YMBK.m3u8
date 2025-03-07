@@ -1,6 +1,6 @@
 #EXTM3U
 
-# * » TRT « * #
+#EXTINF:-1,۩๑๑۩๑๑۩  ULUSAL KANALLAR  ۩๑๑۩๑๑۩
 #EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
@@ -25,7 +25,7 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="TRT",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 
-# * » Haber « * #
+#EXTINF:-1,۩๑๑۩๑๑۩  HABER KANALLARI  ۩๑๑۩๑๑۩
 #EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
@@ -77,55 +77,6 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 # ? https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 
-
-
-# * » Belgesel « * #
-#EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TGRT" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
-https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
-
-#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-
-
-# * » Genel « * #
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-https://c.fulltvizle.com/aytv/index.m3u8
-# ? http://stream.tvcdn.net/ulusal/atv.m3u8
-
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
-
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-
-#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-
-#EXTINF:-1 tvg-name="Teve2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Teve2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="Genel",Teve2
-https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
-
-#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="Genel",A2
-http://stream.tvcdn.net/eglence/a2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: Trt 1" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-11.png" group-title="TR TURKIYE",TR: Trt 1
 http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102306
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: Show Tv SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/showhd_logonew.png" group-title="TR TURKIYE",TR: Show Tv SD
@@ -170,20 +121,66 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion Film" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FashionFilm" tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" group-title="Genel",Fashion Film
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-
-
-# * » EBA « * #
-#EXTINF:-1 tvg-name="EBA İlkOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_IlkOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886648.png" group-title="EBA",EBA İlkOkul
-https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="EBA OrtaOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_OrtaOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886647.png" group-title="EBA",EBA OrtaOkul
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="EBA Lise" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_Lise" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886628.png" group-title="EBA",EBA Lise
-https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
-
-
-# * » Spor « * #
+#EXTINF:-1,۩๑๑۩๑๑۩  SPOR KANALLARI  ۩๑๑۩๑๑۩
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 FHD
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/151
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 FHD
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/160
+#EXTINF:-1 tvg-name="TR: bieN SP0RT 2 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 2
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/153
+#EXTINF:-1 tvg-name="TR: bieN SP0RT 3 HD+"tvg-id=""tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 3
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/155
+#EXTINF:-1 tvg-name="TR: bieN SP0RT 4 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 4
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/157
+#EXTINF:-1 tvg-name="TR: bieN SP0RT 5 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 5
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/158
+#EXTINF:-1 tvg-name="TR: bieN CONNECT 1 MAÇ ZAMANI"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 1 MAÇ ZAMANI
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/162
+#EXTINF:-1 tvg-name="TR: bieN CONNECT 2 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 2 maczamani
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/163
+#EXTINF:-1 tvg-name="TR: bieN CONNECT 3 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 3 maczamani
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/164
+#EXTINF:-1 tvg-name="TR: bieN CONNECT 4 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 4 maczamani
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/165
+#EXTINF:-1 tvg-name="TR: bieN CONNECT 5 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 5 maczamani
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/166
+#EXTINF:-1 tvg-name="TR: bieN CONNECT 6 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 6 maczamani
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/167
+#EXTINF:-1,TR: Exxen SPOR 1
+https://bcovlive-a.akamaihd.net/88affc2b8d9845d9adb0f4a22db27653/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1,TR: Exxen SPOR 2
+https://bcovlive-a.akamaihd.net/446cfea025a440c492201835dd88f74a/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1,TR: Exxen SPOR 3
+https://bcovlive-a.akamaihd.net/11d43931fe8741b286897fd8488a1a2b/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1,TR: Exxen SPOR 4
+https://bcovlive-a.akamaihd.net/764299a9db4b429aa9250edc9e791156/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1,TR: EUROSPORT 1
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+#EXTINF:-1,TR: EUROSPORT 2
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+#EXTINF:-1,TR: BLUTVPLAY1
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
+#EXTINF:-1,TR: BLUETVPLAY2
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
+Tabi =https://v.arectv13.sbs/static/tabi.m3u8
+#EXTINF:-1 tvg-name="TR: tabii Spor 1 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 1 FHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://v.arectv13.sbs/static/tabi1.m3u8
+#EXTINF:-1 tvg-name="TR: tabii Spor 2 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 2 FHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://v.arectv13.sbs/static/tabi2.m3u8
+#EXTINF:-1 tvg-name="TR: tabii Spor 3 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 3 FHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://v.arectv13.sbs/static/tabi3.m3u8
+#EXTINF:-1 tvg-name="TR: tabii Spor 4 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 4 FHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://v.arectv13.sbs/static/tabi4.m3u8
+#EXTINF:-1 tvg-name="TR: tabii Spor 5 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 5 FHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://v.arectv13.sbs/static/tabi5.m3u8
+#EXTINF:-1 tvg-name="TR: tabii Spor 6 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 6 FHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://v.arectv13.sbs/static/tabi6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 1 HD
 http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102284
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 2 HD
@@ -420,347 +417,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decb
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_VevoPop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Müzik",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 
-# * » Bein Sports Kanallar « * #
-
-#EXTINF:-1,TR: BEIN SPORTS HABER
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139969
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 FHD
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/151
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10" group-title="Bein Sports",BEIN SPORTS 1 FHD
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/160
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 2 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 2
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 2 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 2
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/153
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 3 HD+"tvg-id=""tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 3
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs3.m3u8
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 3 HD+"tvg-id=""tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 3
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/155
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 4 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 4
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs4.m3u8
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 4 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 4
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/157
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 5 HD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 5
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs5.m3u8
-#EXTINF:-1 tvg-name="TR: bieN SP0RT 5 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="",beIN Sports 5
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/158
-#EXTINF:-1 tvg-name="TR: bieN CONNECT 1 MAÇ ZAMANI"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 1 MAÇ ZAMANI
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/162
-#EXTINF:-1 tvg-name="TR: bieN CONNECT 2 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 2 maczamani
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/163
-#EXTINF:-1 tvg-name="TR: bieN CONNECT 3 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 3 maczamani
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/164
-#EXTINF:-1 tvg-name="TR: bieN CONNECT 4 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 4 maczamani
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/165
-#EXTINF:-1 tvg-name="TR: bieN CONNECT 5 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 5 maczamani
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/166
-#EXTINF:-1 tvg-name="TR: bieN CONNECT 6 maczamani"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtDljuLDwTAIZ2UZio4sJHeyBGS7c1g5EaYLVd34wZAGterqBcIG436Hb&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",beIN CONNECT 6 maczamani
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/167
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: S Sport 1 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Bein Sports",TR: S Sport 1 HD
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/ss1.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: S Sport 2 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Bein Sports",TR: S Sport 2 HD
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/ss2.m3u8
-#EXTINF:-1,TR: Exxen SPOR 1
-https://bcovlive-a.akamaihd.net/88affc2b8d9845d9adb0f4a22db27653/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1,TR: Exxen SPOR 2
-https://bcovlive-a.akamaihd.net/446cfea025a440c492201835dd88f74a/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1,TR: Exxen SPOR 3
-https://bcovlive-a.akamaihd.net/11d43931fe8741b286897fd8488a1a2b/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1,TR: Exxen SPOR 4
-https://bcovlive-a.akamaihd.net/764299a9db4b429aa9250edc9e791156/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1,TR: EUROSPORT 1
-https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
-#EXTINF:-1,TR: EUROSPORT 2
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
-#EXTINF:-1,TR: BLUTVPLAY1
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
-#EXTINF:-1,TR: BLUETVPLAY2
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
-Tabi =https://v.arectv13.sbs/static/tabi.m3u8
-#EXTINF:-1 tvg-name="TR: tabii Spor 1 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 1 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://v.arectv13.sbs/static/tabi1.m3u8
-#EXTINF:-1 tvg-name="TR: tabii Spor 2 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 2 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://v.arectv13.sbs/static/tabi2.m3u8
-#EXTINF:-1 tvg-name="TR: tabii Spor 3 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 3 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://v.arectv13.sbs/static/tabi3.m3u8
-#EXTINF:-1 tvg-name="TR: tabii Spor 4 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 4 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://v.arectv13.sbs/static/tabi4.m3u8
-#EXTINF:-1 tvg-name="TR: tabii Spor 5 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 5 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://v.arectv13.sbs/static/tabi5.m3u8
-#EXTINF:-1 tvg-name="TR: tabii Spor 6 HD+"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR > Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 6 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://v.arectv13.sbs/static/tabi6.m3u8
-#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3336
-#EXTINF:-1,TR: TRT 1 FHD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190522
-#EXTINF:-1,TR: TRT 2 FHD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190521
-#EXTINF:-1,TR: TRT HABER
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190525
-#EXTINF:-1,TR: TRT COCUK HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190526
-#EXTINF:-1,TR: TRT WORLD HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190527
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190528
-#EXTINF:-1,TR: TRT MUZIK HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190529
-#EXTINF:-1,TR: TRT TURK HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190530
-#EXTINF:-1,TR: TRT KURDI HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190531
-#EXTINF:-1,TR: TRT ARABI HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190532
-#EXTINF:-1,TR: TRT AVAZ HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190533
-#EXTINF:-1,TR: TRT DIYANET COCUK HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190534
-#EXTINF:-1,TR: TRT EBA HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190535
-#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH KULTUR ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3117
-#EXTINF:-1,TR: 24 TV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139981
-#EXTINF:-1,TR: HABER GLOBAL HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139983
-#EXTINF:-1,TR: BLOOMBERG HT HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139984
-#EXTINF:-1,TR: EKO TURK LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139986
-#EXTINF:-1,TR: HALK TV LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139988
-#EXTINF:-1,TR: ULUSAL TV LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139989
-#EXTINF:-1,TR: TRT BELGESEL LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139990
-#EXTINF:-1,TR: TRT BELGESEL LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139991
-#EXTINF:-1,TR: DOCUBOX FHD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140004
-#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH SPORT  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3115
-#EXTINF:-1,TR: TRT SPORT 1 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190523
-#EXTINF:-1,TR: TRT SPORT 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190524
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140431
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139939
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139942
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139940
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140435
-#EXTINF:-1,TR: BEIN MAX SPORTS 1 HD 
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139943
-#EXTINF:-1,TR: SPORTS HABER HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139966
-#EXTINF:-1,TR: A SPOR HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139967
-#EXTINF:-1,TR: SPORSMART LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139969
-#EXTINF:-1,TR: TABII SPORT HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190514
-#EXTINF:-1,TR: TABII SPORT 1 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190515
-#EXTINF:-1,TR: TABII SPORT 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190516
-#EXTINF:-1,TR: TABII SPORT 3 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190517
-#EXTINF:-1,TR: TABII SPORT 4 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190518
-#EXTINF:-1,TR: TABII SPORT 5 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190519
-#EXTINF:-1,TR: TABII SPORT 6 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190520
-#EXTINF:-1,TR: Exxen SPOR 1
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145013
-#EXTINF:-1,TR: Exxen Spor 1 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145014
-#EXTINF:-1,TR: Exxen SPOR 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145015
-#EXTINF:-1,TR: Exxen SPOR 3 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145017
-#EXTINF:-1,TR: Exxen Sport 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145016
-#EXTINF:-1,TR: Exxen Sport 4 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145018
-#EXTINF:-1,TR: Exxen SPORT 5 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145019
-#EXTINF:-1,TR: S SPORT 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140462
-#EXTINF:-1,TR: spor
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139970
-#EXTINF:-1,TR: EUROSPORT LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139971
-#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH MOVIES  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3118
-#EXTINF:-1,TR: MOVIESMART TURK FHD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139906
-#EXTINF:-1,TR: DiziSmart PREMIUM FHD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139908
-#EXTINF:-1,TR: Sinema Aile 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139909
-#EXTINF:-1,TR: Sinema Komedi 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139910
-#EXTINF:-1,TR: Sinema 1002 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139911
-#EXTINF:-1,TR: Sinema 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139912
-#EXTINF:-1,TR: Sinema Aksiyon HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139913
-#EXTINF:-1,TR: Sinema 1001 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139914
-#EXTINF:-1,TR: Sinema Aksiyon 2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139915
-#EXTINF:-1,TR: Sinema Aile HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139916
-#EXTINF:-1,TR: SINEMA TV Aile 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139917
-#EXTINF:-1,TR: Sinema Komedi HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139918
-#EXTINF:-1,TR: BEIN MOVIES PREMIER
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140005
-#EXTINF:-1,TR: BEIN MOVIES STARS
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140006
-#EXTINF:-1,TR: BEIN MOVIES ACTION
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140007
-#EXTINF:-1,TR: BEIN MOVIES FAMILY
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140009
-#EXTINF:-1,TR: BEIN SERIES COMEDY
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140011
-#EXTINF:-1,TR: BEIN MOVIES TURK
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140013
-#EXTINF:-1,TR: FOX TV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139950
-#EXTINF:-1,۩๑๑۩๑๑۩ TR DOCUMENTARY  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/17532
-#EXTINF:-1,TR: NAT GEO WILD HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139901
-#EXTINF:-1,TR: NAT GEO HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139902
-#EXTINF:-1,TR: Discovery Turbo Extra HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139904
-#EXTINF:-1,TR: Discovery
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139905
-#EXTINF:-1,TR: NAT GEO WILD FHD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139995
-#EXTINF:-1,TR: NAT GEO LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139996
-#EXTINF:-1,TR: DISCOVERY FHD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139998
-#EXTINF:-1,TR: DMAX HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140000
-#EXTINF:-1,TR: DMAX HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139930
-#EXTINF:-1,TR: BEIN IZ HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139993
-#EXTINF:-1,۩๑๑۩๑๑۩  TURKISH ÇOCUK  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3116
-#EXTINF:-1,۩๑๑۩๑๑۩ TR ULUSAL  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/17461
-#EXTINF:-1,TR: ULKE TV HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139919
-#EXTINF:-1,TR: TV8 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139920
-#EXTINF:-1,TR: TV 8.5 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139921
-#EXTINF:-1,TR: TRT HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139922
-#EXTINF:-1,TR: TRT Haber HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139923
-#EXTINF:-1,TR: Star TV HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139924
-#EXTINF:-1,TR: SHOW TV HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139925
-#EXTINF:-1,TR: Kanal D HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139926
-#EXTINF:-1,TR: KANAL 7 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139927
-#EXTINF:-1,TR: HABERTURK HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139928
-#EXTINF:-1,TR: FOX HD Tr
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139929
-#EXTINF:-1,TR: CNN TURK HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139931
-#EXTINF:-1,TR: Bloomberg HT HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139932
-#EXTINF:-1,TR: BEYAZ TV HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139933
-#EXTINF:-1,TR: A Spor HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139934
-#EXTINF:-1,TR: ATV HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139935
-#EXTINF:-1,TR: A2 HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139936
-#EXTINF:-1,TR: A HABER HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139937
-#EXTINF:-1,TR: 360tv HD
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139938
-#EXTINF:-1,TR: TRT 1 HD  LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139945
-#EXTINF:-1,TR: STAR TV HD  LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139946
-#EXTINF:-1,TR: ATV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139947
-#EXTINF:-1,TR: KANAL D HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139948
-#EXTINF:-1,TR: SHOW TV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139949
-#EXTINF:-1,TR: TV 8 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139951
-#EXTINF:-1,TR: TV 8.5 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139952
-#EXTINF:-1,TR: TEVE 2 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139953
-#EXTINF:-1,TR: A2 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139954
-#EXTINF:-1,TR: BEYAZ TV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139955
-#EXTINF:-1,TR: KANAL 7 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139956
-#EXTINF:-1,TR: KANAL 7 EU LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139957
-#EXTINF:-1,TR: 360 TV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139958
-#EXTINF:-1,TR: TV 100 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139959
-#EXTINF:-1,TR: TV 4 HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139960
-#EXTINF:-1,TR: ATV EURO LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139961
-#EXTINF:-1,TR: EURO STAR LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139962
-#EXTINF:-1,TR: SHOW TURK LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139963
-#EXTINF:-1,TR: EURO D LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139964
-#EXTINF:-1,TR: TV8 INT LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139965
-#EXTINF:-1,TR: A HABER HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139973
-#EXTINF:-1,TR: NTV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139975
-#EXTINF:-1,TR: HABER TURK HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139976
-#EXTINF:-1,TR: CNN TURK HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139977
-#EXTINF:-1,TR: TGRT HABER HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139978
-#EXTINF:-1,TR: TGRT HABER LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139979
-#EXTINF:-1,TR: ULKE TV HD LOCAL
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139980
+#EXTINF:-1,۩๑๑۩๑๑۩  ULUSAL KANALLAR ۩๑๑۩๑๑۩
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKEY",ATV HD |D
 https://api.codetabs.com/v1/proxy/?quest=https://warstvpro2024.serv00.net/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMjUyNjEyODY5NDMyN2QyNDBjOWY=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKEY",A SPOR HD |D
@@ -781,7 +438,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://warstvpro2024.serv00.net/xrot/g
 https://api.codetabs.com/v1/proxy/?quest=https://warstvpro2024.serv00.net/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDI5Mzc5MzI5OTlhZWNkNzU0NTc=
 
 
-# * » Dini « * #
+#EXTINF:-1,۩๑๑۩๑๑۩  DİNİ KANALLAR ۩๑๑۩๑๑۩
 
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="TR > Dini",Diyanet TV
 http://stream.tvcdn.net/dini/diyanet-tv.m3u8
@@ -837,96 +494,469 @@ http://stream.tvcdn.net/dini/kanal-hayat.m3u8
 http://stream.tvcdn.net/dini/abn-turkey.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png" group-title="TR > Dini",Mukabele TV
 http://stream.tvcdn.net/dini/mukabele-tv.m3u8
-#EXTINF:-1,۩๑๑۩๑๑۩  WATCHED IP TV YAYINLARI ۩๑๑۩๑๑۩
-⚡SPOR",TR: beIN Sports 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tcydFpdWNz76fgQcycsUmsI/m3u8
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="TR: beIN Sports 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fU8uWcHqvT66aifJfmYAVCinLHM_EtOBu-WE1ZPQKqN4MHF5cYwQCzITO1pOlUPiImrZ-WtdEp_V_VKr_9dfr9n.png" group-title="TR ⚡SPOR",TR: beIN Sports 3
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWcys_LR9jR_CoLfXe5qJtE/m3u8
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="TR: beIN Sports 4" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUVO8XwNd5C7tkltSf0Ri1MDLlXaRNYNwp44uoauhUQe2iOevbNiijaD6VAFDhXf2yrdHKiOm-zkeMBDmMNIlqU.png" group-title="TR ⚡SPOR",TR: beIN Sports 4
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tbVxD6u5nWk5hQTeFMz_10U/m3u8
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="TR: beIN Sports 5" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVxuoNalniagEwM2F5b0DozfT2q1ekMnsp6YTvP5M4O7-QDy_UI6MxCqhW0EnpCG_UOwjbd-AtM9WoVJ8YhyNOG.png" group-title="TR ⚡SPOR",TR: beIN Sports 5
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4ta3I2YNBl8g5T_zn2xurPdE/m3u8
-#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="TR: beIN Sports Haber" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWREJHofvgk8Ed1rzG6aB2WrozXDL4OqeoVw2MnZIccvW3RqiFRdG5ZKxysSmA4K6EKoBrw081lEJBc2Nrjxh5X.png" group-title="TR ⚡SPOR",TR: beIN Sports Haber
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tZGP5LIZR2rNirDfy_ib4C8/m3u8
-#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="TR: beIN Sports Max 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fW9sjQiItoSqlVdK_whwczCiQxCixh4k8D9T_4NVQyODQd1U6jutoTzoo5jIa_5q4D6tW1QYBiepeLJ5AOOxxSW.png" group-title="TR ⚡SPOR",TR: beIN Sports Max 1
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdwe7OmtiwUylao5S5j3LJ8/m3u8
-#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="TR: beIN Sports Max 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUw5m3QD79SKTr2M5jeC6-J48ua6qPTpbuuvyZFtO-nkjaofYBP8OpkAdun6XG16gAFo_5IY_OGi63HTurXtOUR.png" group-title="TR ⚡SPOR",TR: beIN Sports Max 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWBAw6Hl2nyTPMEQJCi81jw/m3u8
-#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="TR: CosmoSports" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Z8AeOlMommEkhduiGVcmmXfwhXu5a1ONKMsewE-hhGW.png" group-title="TR ⚡SPOR",TR: CosmoSports
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tS3vNyBPyWUq-A08aRy2xi4/m3u8
-#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWFbtyaW33cA6vzMEY_p5omMlrpaNFJVlnbCYOmaASDHn_72ntvmR0pVKY1rrVH_sorjXLMgEZiveoeTn7bE9Vx.png" group-title="TR ⚡SPOR",TR: Eurosport 1
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tSl9DsotwkLJU4XBOhlYT3k/m3u8
-#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXxSdxyzDng6G5CcEZRCM4PITsMsLMsrHO0to55nt7-dZCc58bF0w5ZZBw49zoleIFF7sRjs6OVRwepAW0qcGYc.png" group-title="TR ⚡SPOR",TR: Eurosport 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdbyue20JAiVw9KEWiGIY1k/m3u8
-#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="TR: NBA TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVRHnYF62pMxWWSrd4q92SVbkESQ49jmgHyTToDDgj-76za9iIquLkW4bJvoheSDFjPI5mFWXRbKgB7-oY32Lzh.png" group-title="TR ⚡SPOR",TR: NBA TV
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWwrhzyahbdOJe1OA7jc3-w/m3u8
-#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="TR: S Sport" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXLup3OEnBv_ak618ApIntgyHSpMSHEOxwchSf-60mutO1ZwH6tiMqfHwPEU3CFv49VXWXEFgKIF24d4gA770MD.png" group-title="TR ⚡SPOR",TR: S Sport
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tbaxoL8vUD8oR0CoRtJPTIU/m3u8
-#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="TR: S Sport 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWVwVREglCi4vi5YCYgTor98RWPJ2QKR4Ol_NQbEbwbxN97JZCCBh4kICNeGx5_3-1M3_CEpAwiKJzj6omRKnxc.png" group-title="TR ⚡SPOR",TR: S Sport 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tba78fhZ9PFklOQyTnugqJ0/m3u8
-#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="TR: Spor Smart" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVVswtyAz9UyoWdh5iGnOR7BxevyPvtR5mrOEv0Wmnnj8lupBPteyE-x6XOwh_gCvV3PNHlq5qaoGsQn315bbG3.png" group-title="TR ⚡SPOR",TR: Spor Smart
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tY1tesEIUzlUL33iZ83BX6I/m3u8
-#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="TR: Spor Smart 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUAJ0La3KMEZNRdxwkAl_549IEjPLJZAc6q_MY8eObWFW2tqss5lNUyuDdZ3kn0ae6W35FBFNklxsSJfXVbFmB7.png" group-title="TR ⚡SPOR",TR: Spor Smart 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRlLfWUtUhFd_sqVssfb7Y8/m3u8
-#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="TR: Sports TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXQ8Wm7lcdbMOLdHfJGFJyuBbm3yuyOgZ96ONcNdeBxBbhFIoDw3VoepUacJlKdKT1B_gZtgdH56hIFLuDNgnHx.png" group-title="TR ⚡SPOR",TR: Sports TV
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4td4ybftNxrHwAQIcmLpNXDk/m3u8
-#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="TR: Tabii Spor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tZde1yDYR_p_KYuLz5eRgz8/m3u8
-#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="TR: Tabii Spor 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 1
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tVVJ3w7KB2mrwcE8w99iT1g/m3u8
-#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="TR: Tabii Spor 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tfQ5mISdZWujWOzDxeyAxsw/m3u8
-#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="TR: Tabii Spor 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 3
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4taXy4seS4-XWCcOe8jPwtjM/m3u8
-#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="TR: Tabii Spor 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 4
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tXk_boqbCEeYmf8hPiZ_pIg/m3u8
-#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="TR: Tabii Spor 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 5
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tfn4o5JeMNuISs_zeiFqy4Y/m3u8
-#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="TR: Tabii Spor 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TR ⚡SPOR",TR: Tabii Spor 6
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRs7nReJtEd54H8AzOXJnhk/m3u8
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="TR: FB TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fW8MRG7ox9l7POjJwYIQycXwkI-jfjz-XwFEvXopQkfyQHmwPKrucb7jrcferPR2o4zKW3hmsok0ROGiy0PEHGp.png" group-title="TR ⚡SPOR",TR: FB TV
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4td6A3drbV07BPqk4rlWXbDM/m3u8
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="TR: Galatasaray TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVP2E7TccDFgxN0E6Vtt_jWBHBvtia8AzCX-sCjHLRIIRgrG3XmIJCmFagRkjHrAOtNEBM27mkm43woH6SlN4z0.png" group-title="TR ⚡SPOR",TR: Galatasaray TV
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tR-Ny2PoB-g3xArySgbAyOk/m3u8
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="TR: A Spor" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXNxTLQxjL-yl0P8JeUdA76QtC8ih1rcI7k_4Mou5Nw1MYK8LiZfwLljqd0kYK58MDwPpuW8G6FKm9xZFRSMOCe.png" group-title="TR ⚡SPOR",TR: A Spor
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tTrsOEZ7ldCx3zmz0cdThnI/m3u8
-#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="TR: TAY TV" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUu9ClS-4rzhhliivZZ7aia0mXkLusi5Ydzg9glbwJ5xRzqx5mfHJLdZq9oB-EEOyWjsxPjU32eB20Rr9a-ucUP.png" group-title="TR ⚡SPOR",TR: TAY TV
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdSNbM9Ov659Xl74ziIaV5Y/m3u8
-#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="TR: Tivibu Spor" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUY11vZbpedtOc9TEPZ4rgvF4qWMJkBTJl81OkHRof5l2WMuXBBhr8Ho8HRjzxccIaA5tXvdzXHmENynY_JGQN2.png" group-title="TR ⚡SPOR",TR: Tivibu Spor
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tenGtVlRpNIE-Vl6zw00dlU/m3u8
-#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVgJrb5J7x9_XPEuL4bpGWwqHyv9TyHChyuH6gN-klN4jgIVNHBGvrIAfUjEhyI_hygj9Mu9ihhstEX1ydj5HRP.jpeg" group-title="TR ⚡SPOR",TR: Tivibu Spor 1
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tZqJUtZPkBz5XI0AyN89aWA/m3u8
-#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUz0bvSlfrVugBCrlAPN3TQGIjnGhVGwQTlxkN5AQzfzom5rWIc0z0z1J2_dV1Lp5I7W9bdtOp66hzOodfwB2K_.png" group-title="TR ⚡SPOR",TR: Tivibu Spor 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tVDlsknNxt92YoPpAUd6t_0/m3u8
-#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXOfqBXKHSRL_z898iQ-AGF0kOKCSMigBjZF_Fraob_xQXx1gdhK16od_G8Z99rZTngWSstHGpp--dlznTYEqwX.png" group-title="TR ⚡SPOR",TR: Tivibu Spor 3
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tW5MWiUOujZmplQWQD87JMs/m3u8
-#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="TR: Tivibu Spor 4" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWuhr5dk-cxXar_MGYNNbJJv-cgyJ7d8kJQiyBozx5aMMrVx_-PaiFQSRwWi4VOPwX6F_YEUu97wMxKCmu74aiw.png" group-title="TR ⚡SPOR",TR: Tivibu Spor 4
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWSiGN9W-wOJShFzS8r1d-w/m3u8
-#EXTINF:-1 xui-id="82" tvg-id="" tvg-name="TR: beIN Box Office 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUuY6uWtoolRVpB-v4346VoW5tASsoZoNMw8nGYodeySkQgjdGxM8wxkPe7iB1v_9T8T_Fl-3SsPwRcGOIC_kzI.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office 1
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tdxi_RBEgxUbvuSmfFstON4/m3u8
-#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tfsZBu45Rvl7O1jgYxe9IpU/m3u8
-#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUW_-iEVz0arYGu1whNM-Cv5-crk7k2UE1oez04eJv37w_5z6RVQB1k34wfMhVr7O19s_RiFy9-KoPR1EWmsRzR.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office 3
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tQq4OAbk67Y7UlA3ESpasD4/m3u8
-#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fW67UL2CT3DSEXvhzkiYkNiXvClWTQX8AGF_SltpUm-D60xDt4-xRFhLBX8XE5A92U1dNiUZgUs2k3KQH8lAXGq.png" group-title="TR ⚡SİNEMA",TR: beIN Box Office Turk
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tXjSpmxfXKDHi7KgtcfR2y4/m3u8
-#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="TR: beIN Movies Action" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUODXXC41EXzaTGNVkRerqdQtMWMK2jaoDgos2ZFzrc56x3aMpVlCnnVER3FL9bToJVPkaDb8RKpvkak29WUZsA.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Action
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tX6UsHvFtxOuB2B7NuBRhgs/m3u8
-#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="TR: beIN Movies Family" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWQcBzUgV_ybdByccjoF9hCYthOQ5SNLf6cWRnb-dtvj36pzwTSArDRrg6yaX-5lWvdFVocf8nbnqemg4S8BLjj.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Family
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRlEzaXRLflag2n7vbOmJz4/m3u8
-#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="TR: beIN Movies Premiere" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWBNAHj82av6JxHrDQ48iNDlTbeAcIGzfSDzfPOSQdZ-XcE7WvuSOZ3WsFOlvuf5iYn40pz5tuFt9QbS6xuNfb7.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Premiere
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tWKXoVXHm-pi9QmlqwRq-LE/m3u8
-#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVhIbfxHoTAjYpJAoTk0_b46Sf8saiCV4zz5o2V-bmI7XRizfaQI9bx6aR3UhyKJ-WI9qThk97fdr0hJyL9Q_lQ.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Premiere 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tVPgv36RMmkmbC_T1O3LkSA/m3u8
-#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="TR: beIN Movies Stars" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Stars
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4td_R4ie-L3cKx1ZAo-tyEUY/m3u8
-#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="TR: beIN Movies Turk" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fUooTJjQ6g8vd5UY1sDeBPmV5Y_uIYF5O9rcPPXdq2GXkTgPQqL_dh7SV355qBLj33_sRx_f-vj3DPPwhLBuy4q.png" group-title="TR ⚡SİNEMA",TR: beIN Movies Turk
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4taym6FB8DtS8ubnVWvNV4FQ/m3u8
-#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fWF3QvAxqv-4NfdnRjEi2-vLJJDTnSs5P1L-_wUDVuTBcaxF2QsYlMgrNvEA3a2EU9rCMm23P-Lm7jM2h6uEVGG.png" group-title="TR ⚡SİNEMA",TR: beIN Series 1
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tYyo4SuTx3IdlPxfTnllJE0/m3u8
-#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fVhQU9ww712IDRx4B57KQsdeMx1fGiJbPxhSagfREwrY2LYR6O3M5NwdcuUoVLszj4UYV1lKsgNXMFJBdLogQ4-.png" group-title="TR ⚡SİNEMA",TR: beIN Series 2
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tW_AwyoXVLxKx25inW-c6XA/m3u8
-#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXKZQV1Z2ywqChhtfK4SSR4JYkXhtzOg7t39MsLXWJ-NH7SpGwjgjmm7t0O-v4qraktdCdSs0QExUlvKielSLFv.png" group-title="TR ⚡SİNEMA",TR: beIN Series 3
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tRdXZmh88itIutWTpBwLUb4/m3u8
-#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="https://hypertv.duckdns.org:443/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXX1h-WmKIN0oGsY3E3lSekCr6StXpCVlDdHJ0TxmHMSs75tdNSB0ca9hMjqyLL-mKkiqD7g8bAslJV72aJjj88.png" group-title="TR ⚡SİNEMA",TR: beIN Series 4
-https://hypertv.duckdns.org:443/play/yJx1ZJ6SUpdcNviCTZC4tYRPyRKNu94QIhNUU1D7rHM/m3u8
+
+#EXTINF:-1,۩๑๑۩๑๑۩  FİLMLER ۩๑๑۩๑๑۩
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: İblis Şehri - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24TGgjq9UwTCptfEawUuQ3SJ8Ga.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: İblis Şehri - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Yanlış Yolda - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48v9lSxlVFSeGCWxFy3cPt3vrRd.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Yanlış Yolda - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Vahşi Robot - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIPEakWqEBfpqtw7dXaVUQ5Qz8E.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Vahşi Robot - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Present - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRXPjCNFbXVXmaqHItMHDUPaxvK.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: The Present - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Merkez 36 - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Merkez 36 - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kopenhag'da Bir Aşk Hikâyesi - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IK1sdoQScmXVfn11wFnn3Nvl4G.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Kopenhag'da Bir Aşk Hikâyesi - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Karşı Atak - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Karşı Atak - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Transformers: Başlangıç - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tlRopdbFf8rFjPmDY56WmnkmR3.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Transformers: Başlangıç - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Nickel Çocukları - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Nickel Çocukları - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Mufasa: Aslan Kral - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Mufasa: Aslan Kral - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Keskin Nişancı: Son Direniş - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O96D7Ea9qMYPozPcnDUy4clk6b.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Keskin Nişancı: Son Direniş - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: En Sevdiğim Pastam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7lPiQz0DKWhD2LUSxtqnDMftl0.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: En Sevdiğim Pastam - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Cambaz - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73GuQJy92ZUPowZQBD1dDwBqLYh.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Cambaz - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Avcı Kraven - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWI2qJG6PkS9wX601QfihkkZsPi.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Avcı Kraven - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Piyasa - Son Bolum (01.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="V|TR: Cumartesi Dizileri",V|TR: Piyasa - Son Bolum (01.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Witcher: Sirens of the Deep - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: The Witcher: Sirens of the Deep - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Tatlı Villa - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llfbNVMod5d7aK5hdoRROMrd2MO.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Tatlı Villa - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Stockholmlu Aşıklar - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HmlkLS2bZD09vKwoIOj7TOAwdX.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Stockholmlu Aşıklar - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Özlem - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKMjzC0yo3dk7JCgh48qPbruonQ.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Özlem - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Düğünden Önce Ölüm - 2025" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qZeyHx0WRIOmiwgtYbZRBDwyKdJ.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Düğünden Önce Ölüm - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Cuckoo - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Cuckoo - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bookworm - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LfSI2GpyF1Q0WJs5bjL4jDono6.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Bookworm - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Another German Tank Story - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vF82SF3NsMUngg4DrRmjrYwDlYS.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Another German Tank Story - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ana-Oğul Balayı - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzW0afBIyWZ0bjCje8GPezvETy0.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Ana-Oğul Balayı - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Rüzgara Bırak - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg" group-title="V|TR: Yerli Film 2025",V|TR: Rüzgara Bırak - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Umami - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgT250M6F0o0bUUTyXjEjof6knA.jpg" group-title="V|TR: Yerli Film 2025",V|TR: Umami - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kral Kaybederse - Son Bolum (25.02.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="V|TR: Salı Dizileri",V|TR: Kral Kaybederse - Son Bolum (25.02.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bir Zamanlar İstanbul - Son Bolum (28.02.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="V|TR: Cuma Dizileri",V|TR: Bir Zamanlar İstanbul - Son Bolum (28.02.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kayıplar Şehri Bogotá - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMiZiI6SyvTcaKKQrctCvbhW9F4.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kayıplar Şehri Bogotá - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Joker: İkili Delilik - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXF2p2hthwXDXvCyXcwWuJKgaHD.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Joker: İkili Delilik - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Az Çok Hamileyim - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhOftV7RvdOthMkQijbhP9tGdj3.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Az Çok Hamileyim - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sizi Dinliyor - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkImdBnPTrJnwkUATGay6kvc42D.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Sizi Dinliyor - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Beterböcek Beterböcek - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzU2cRkxoAX29jHLqiIvlByvZIQ.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Beterböcek Beterböcek - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Nefes: Yer Eksi İki - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVNHZ4T5bWXA0pkySFGj1YnoFge.jpg" group-title="V|TR: Yerli Film 2023",V|TR: Nefes: Yer Eksi İki - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kardelenler - Son Bolum (02.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="V|TR: Pazar Dizileri",V|TR: Kardelenler - Son Bolum (02.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sizi De Aramızda Görmekten Mutluluk Duyarız - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rY9C9f9NdlboxJ5eiQTXLdQlcZc.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Sizi De Aramızda Görmekten Mutluluk Duyarız - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sakın Ses Çıkarma - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf5moFM0jHXGOdp5kQZMiq3F5Gf.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Sakın Ses Çıkarma - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Marmalade - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt66TPbmJn8E4LepeLhBO5V1AED.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Marmalade - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Lucca'nın Dünyası - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Lucca'nın Dünyası - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Başka Bir Gün - Son Bolum (06.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="V|TR: Perşembe Dizileri",V|TR: Başka Bir Gün - Son Bolum (06.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Şarkını Söyle: Thriller - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i77OInTKcrnRlAozFOaB6D5mk15.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Şarkını Söyle: Thriller - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Crow: Ölümsüz - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hygkfPt0it7KLrXEMelzNQg5mM5.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: The Crow: Ölümsüz - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Çılgın Hırsız 4 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t61Yo3P7k0rBO4Oq9whSj0nX5Fc.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Çılgın Hırsız 4 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Çocukların Treni - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwGsWmdbHZmJ45Qd26mO4FyuNz8.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Çocukların Treni - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Zamanda Bir Kesik - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCsFIEYytXv4reukWWcp78B84dU.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Zamanda Bir Kesik - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Yalnız Gezegen - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUn72Z4pgHQar2eUch3JOyMpepF.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Yalnız Gezegen - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Winner - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Winner - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Wallace ve Gromit: Kinci Kuş - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75HC6rSUX8UBWgW87s8iMOaW7qr.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Wallace ve Gromit: Kinci Kuş - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Venom: Son Dans - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIjGt7bSU7hgWtYwccfufiM1wWZ.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Venom: Son Dans - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Uprising - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnfNGXdW7J9HGNeHyaDpkAFJkHK.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Uprising - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Durdurulamaz - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIBVusneA3awHxIaXciHZNGIpyW.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Durdurulamaz - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: UFO'ları Seven Adam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BTQWBOys0BXplP5APuAWZlFNd0.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: UFO'ları Seven Adam - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Tuzak - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEYMle2XTbrxPZyHUrEJUU2peyt.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Tuzak - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Dokunmak - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU99aoVdDIRdcQd9ipRn7h6HKs5.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Dokunmak - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Asi 13 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hsIRUjHnvB7UXtZxz6vYd2nVN0.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Asi 13 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Platform 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHGgM019xAoy62cKZtDmTxvQlUY.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: The Platform 2 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Thelma'nın Zaferi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbqsuAgERkqFxaPtHNVqVUSbgdS.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Thelma'nın Zaferi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Killer - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: The Killer - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ters Yüz 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYqeUheNCep7ll9AotOcclGhP0X.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Ters Yüz 2 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Through Rocks and Clouds - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oplzWpC3tb3bPxDZgYXBUrABkYd.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Through Rocks and Clouds - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Takvim Katili - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8R7sJqx4tmAZLjyxruL9OZMM5Ps.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Takvim Katili - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sugarcane - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Sugarcane - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Belalı İş - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t81vQdBsPRvXYPYn4l8hvJ21sbF.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Belalı İş - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Slingshot - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Slingshot - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sleeping Dogs - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Sleeping Dogs - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Cilt Bakımı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejSDqQ1mECQZiurl3todYQh8H0m.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Cilt Bakımı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sessiz Bir Yer: Birinci Gün - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQm7ACcf5jA8H33ADhhfFnapjUS.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Sessiz Bir Yer: Birinci Gün - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Look Back - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzcsH8ilrI8HoxX5GLZSUMcbNUe.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Look Back - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Boşanamama - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPYejDUlj7yZ0MrKTBbo8jAIxkC.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Boşanamama - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Piyano Dersi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNuTHUpxujDOPDPgBSRf2J1FFY2.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Piyano Dersi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Pimpinero: Kan ve Petrol - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYe9Qby9ULC6kL8sbji4SWC4htN.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Pimpinero: Kan ve Petrol - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Penguen Arkadaşım - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR13PQs18drDT0vOrMepgces1BL.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Penguen Arkadaşım - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Pedro Páramo - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpl7d2ALW2TkPt7ziXPGxGJrU0h.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Pedro Páramo - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Paralel Hayatlar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s62A9nTJIqU9JKmjAnADISejSBq.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Paralel Hayatlar - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: No. 24 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: No. 24 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Nightbitch - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Nightbitch - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Saldırı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm33byrTaRNbAF4KlPaVJbRGbBX.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Saldırı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Mononoke the Movie: The Phantom in the Rain - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIVdV0ZyU4NYFrNym4jx8Nr6taS.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Mononoke the Movie: The Phantom in the Rain - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Miller'ın Favorisi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfTlrN4a9mSGjDYfKv8l6zukBAx.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Miller'ın Favorisi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Meraklı Kedinin 10 Yaşamı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wLlixX3RembHgZTO3Z2PbDhog.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Meraklı Kedinin 10 Yaşamı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Menendez Kardeşler - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBEozqkV9XhSHCUDoLhhWMlmok9.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Menendez Kardeşler - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: MaXXXine - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9yWOkiMDyA9DyrCS2ZoP7cMhB8.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: MaXXXine - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Martha Stewart - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k06KXs1iJCif6PuEOiEaYQgzX81.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Martha Stewart - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Makayla'nın Dünyası: Harflerin Dili - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5f9ku4lRWAPmGAvzi2wnuJeQgu.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Makayla'nın Dünyası: Harflerin Dili - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Özgürlük - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99I1yjoy9uJOo0daJHce230JGoi.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Özgürlük - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: LEGO Marvel Avengers: Mission Demolition - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3LGf9afqmUZiAJ9nffBinpOhOI.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: LEGO Marvel Avengers: Mission Demolition - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kızıl Bakire - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/px23WWIZlWqo94E6gWF4QBv4JFG.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kızıl Bakire - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kıyamet Z: Sonun Başlangıcı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvMwfl90J8ofOHbGFisEUEGfzmN.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kıyamet Z: Sonun Başlangıcı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Survive - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/901kRttzfLScns7ss7RyKqG6d2A.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Survive - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Küçük Sırrımız - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7isqmWUryG2xksrw0E75m3vYTFd.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Küçük Sırrımız - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kutsal Meryem - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpApuf1xky92ug8n5mP5aP7DiDy.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kutsal Meryem - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kurt Adamlar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahzWHYdRFqnlpsM5l5qHU4Fj3az.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kurt Adamlar - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kod Adı: Kırmızı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymEu97tJ8h2sUAhaw8CU3MGTi9v.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kod Adı: Kırmızı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ölümcül Ateş - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqL6FkxV9fQ4rcqQ8Z7dEy41z2y.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Ölümcül Ateş - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kaçak Kızlar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d63rRLxvcI5rGZ4OC3s4VJ9On6b.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kaçak Kızlar - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kayıp Çocuklar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqhUcnw1vPxYfpGKccDvIv0Ss03.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kayıp Çocuklar - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Katil Oyunu - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srhemjngASOnkZlTQvNhzA99Cty.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Katil Oyunu - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kardan Kız Kardeşim - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keqL8XmD3ZNnPiJdWjAlzRp2rL8.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kardan Kız Kardeşim - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kamp Annesi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyZD0b5cAQi1jny59fqbIKQ4Y58.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kamp Annesi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kalbim Senin - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Yyv5YFQOQ6LpVMUdc4SCXsZijn.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kalbim Senin - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kabin Bagajı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIcEk2fIN6ob7OtIBBKod6YCnZB.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kabin Bagajı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Justice League- Crisis on Infinite Earths - Part Two - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Justice League- Crisis on Infinite Earths - Part Two - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: JOY - The Birth of IVF" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWcq6GZcpo8ULwB7FRCZ0Dw8L3F.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: JOY - The Birth of IVF
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Efsane 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eLjgesRLYQ8kjfwusSwxgNFcHv.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Efsane 2 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: İç Savaş - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MhvqGiiylncH61BfiX4GwwKDaN.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: İç Savaş - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: İçinde Kim Var? - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCo1lSAOuUIK0B0tpkCEX97B6Os.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: İçinde Kim Var? - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: İçimdeki Müzik - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slsGrhLV5Uz1GYYwClAaZ6FFRc2.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: İçimdeki Müzik - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ibelin'in Olağanüstü Hayatı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FkHH0g2CFPvREqwQy74vJyEnnY.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Ibelin'in Olağanüstü Hayatı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: House of Spoils - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udfMAdiyKhgAS47dRXEnXo6tHt6.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: House of Spoils - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hold Your Breath - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuzw7lXL9NJZpSL1B9ckwT8Z2ss.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Hold Your Breath - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Her Şey Bitti: İspanyol Futbolunu Değiştiren Öpücük - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SKyGF5y2mM9edkW11zYyo2pbsn.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Her Şey Bitti: İspanyol Futbolunu Değiştiren Öpücük - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hep Yaşa: Bir Adamın Ölümsüzlük Arayışı - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/li74hv5dKlDmG94Q4g37EYLtcuy.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Hep Yaşa: Bir Adamın Ölümsüzlük Arayışı - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hepsini Öldür 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OwlYWlmV1kosRWcXSq5sKHfwzb.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Hepsini Öldür 2 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hayali Arkadaşlar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mWTze4g20LA0CktkCC6XIzAPrQ.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Hayali Arkadaşlar - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hayali - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlaCaBSvY7gItuB2IdY3zdZD6H4.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Hayali - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Harold ve Mor Tebeşir - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMBP4ZpvTwrGqws2y7Bymfs197x.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Harold ve Mor Tebeşir - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Gözlerini Kırp - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbKiTskQr4PhDPIcWPTeY8PBKaR.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Gözlerini Kırp - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Gözcüler - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSVgnz4NFVKgwQOcOnG39ZhbnVW.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Gözcüler - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: GTMAX - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx92hl70NUhojjO3eV6LqKllj4L.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: GTMAX - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Şimdiye Kadar Ki En İyi Noel Gösterisi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEMeXqmbg1M8tgEs6QhvcQv8J0R.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Şimdiye Kadar Ki En İyi Noel Gösterisi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Gelmiş Geçmiş En Büyük Soygun - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIS7g0i09afNbHQ9VHRnP8PErTs.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Gelmiş Geçmiş En Büyük Soygun - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Gelecek Yıl Aynı Yerde - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z08ZT4TVtVCNODXbblSAuJiwk5f.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Gelecek Yıl Aynı Yerde - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Gece Avı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP3DIqV79Zd6pYIgrLhTdrnE7Nz.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Gece Avı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Atlayış - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZYLN4vQI6NLpbRvU9Z3SBYMeky.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Atlayış - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Firar: Kaçak Aşıklar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj9fjmDSBH56cz2VL49caIso0iq.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Firar: Kaçak Aşıklar - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Günlük - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSKCmFxBJcZJRztwHSbBCxFOIRX.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Günlük - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Dominique - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Dominique - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: To Die Alone - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naYryf9Xs5nLW7YZoKjoOJn0h67.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: To Die Alone - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Deadpool & Wolverine - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3BuUXYjvGcKwZYKZsYjMDFQr1D.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Deadpool & Wolverine - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Culpa Tuya - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCfad55pTjg9IQ6LkzNGXoWg1rz.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Culpa Tuya - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Crescent City - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Crescent City - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Catfishing Kâbusu - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx46v4XpMGXnTevmnvsIFxXeht9.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Catfishing Kâbusu - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Büyülü Ailem - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OcWJkenrZ6mA8lvRSAhNXts3ps.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Büyülü Ailem - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kardeşler - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVqubu4aze7WvP7hDtSPRGrIF51.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kardeşler - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Boş Ver - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IkbjQtznbT8HIHDXGSS4AWR9Kp.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Boş Ver - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Borderlands - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQE2S8VItIR3Q7vNBRMHuq2o3R.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Borderlands - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Blink - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8w7QbN4gyX4tL2nvenS7Xh44su.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Blink - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bizimle Başladı Bizimle Bitti - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRoSBSUZSpYcv80kOLRMDTq27iC.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Bizimle Başladı Bizimle Bitti - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bir Zamanlar Noel'de - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y958x9Jo8eR6YE08aYm8f3Xaha.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Bir Zamanlar Noel'de - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bebekler Karıştı 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWDCqKmhxVbHXwRwiR3moGjtaq5.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Bebekler Karıştı 2 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bebekler - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP2wDnzbDtJKFIC2EckcZXL3Xo9.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Bebekler - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bad Boys: Ya Hep Ya Hiç - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktlDbB2nBdf4zhzmWgN7PGOWcik.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Bad Boys: Ya Hep Ya Hiç - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Back in Action - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Back in Action - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Aşk Dümeni - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwUOOT0PAJqGClDF6LZcIRlOzBY.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Aşk Dümeni - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Avicii - Ben Tim - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocwNc5bJcAOUtBlLgVGDORDPNOU.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Avicii - Ben Tim - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Arthur the King - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Arthur the King - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Alien: Romulus - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Alien: Romulus - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Aftermath - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEHIVyJB9VWLF3cuJOpYjJjegd1.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Aftermath - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ad Vitam - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2025",V|TR: Ad Vitam - 2025
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/103001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bir Zamanlar Gelecek: 2121 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruN8sooKWLJE1BRfQNyLcHby55s.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Bir Zamanlar Gelecek: 2121 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Filme Gel - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pM0XbZyFozn04U5vWLhcGIlymTb.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Filme Gel - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Cadı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KeE7l8Lc0ma8ged6DjXaR8Geiz.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Cadı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Zembilli - Son Bolum (28.02.2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhY2Y5MjktZGUzOC00NzkyLWJiYWItZTEzMGZjNGFjMmQyXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg" group-title="V|TR: Cuma Dizileri",V|TR: Zembilli - Son Bolum (28.02.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Can Borcu - Son Bolum (01.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="V|TR: Cumartesi Dizileri",V|TR: Can Borcu - Son Bolum (01.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Şakir Paşa Ailesi - Son Bolum (02.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="V|TR: Pazar Dizileri",V|TR: Şakir Paşa Ailesi - Son Bolum (02.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: 39 Derecede Aşk - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIGgPB3jqnqbEyaCaREMWCYgSYO.jpg" group-title="V|TR: Yerli Film 2024",V|TR: 39 Derecede Aşk - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Erdal ile Ece 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRyO91m8JfRl9pNO2SQmxP69st8.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Erdal ile Ece 2 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Siccîn 7 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pG2i23KHdtvla7iCNwSUPqS53E.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Siccîn 7 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bakkal Amca: Mahmut Tuncer - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uba8gTARsFBPdsKyPKceC34BoK5.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Bakkal Amca: Mahmut Tuncer - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/102205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Annem Ankara - Son Bolum (05.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="V|TR: Çarşamba Dizileri",V|TR: Annem Ankara - Son Bolum (05.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/101560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sahipsizler - Son Bolum (05.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="V|TR: Çarşamba Dizileri",V|TR: Sahipsizler - Son Bolum (05.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/101352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Uzak Şehir - Son Bolum (03.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="V|TR: Pazartesi Dizileri",V|TR: Uzak Şehir - Son Bolum (03.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/101329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Atatürk 1881 - 1919 - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVebJc8quJGZPGRRNrQpb54xdw1.jpg" group-title="V|TR: Yerli Film 2023",V|TR: Atatürk 1881 - 1919 - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/101319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Atatürk II 1881 – 1919 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t46svTyY0hfnHxqbSMZPEiPNDu7.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Atatürk II 1881 – 1919 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/101318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Meraklı Adamın 10 Günü - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQpmRRhI4ozlhCeiTmbBu4cXi2.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Meraklı Adamın 10 Günü - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/101209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Cem Karaca'nın Gözyaşları - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOdlIrWIeRX0eLQTxVGSGYyyhMn.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Cem Karaca'nın Gözyaşları - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/100970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hayat - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRkdGxPifj69vGxYBKOW0an7PgZ.jpg" group-title="V|TR: Yerli Film 2023",V|TR: Hayat - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/100946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Güzelliğin Portresi - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A23brbK9prJWlvU8h7RR7JPqLT.jpg" group-title="V|TR: Yerli Film",V|TR: Güzelliğin Portresi - 2019
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/100877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Mavi Mağara - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXlLAaBM3AWG1YBBteBCTiL03o3.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Mavi Mağara - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/100369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ah Be Birader - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLMr79tC2GGOlv6133ibcsDtL58.jpg" group-title="V|TR: Yerli Film 2022",V|TR: Ah Be Birader - 2022
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/99936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Tam Bir Centilmen - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aflunoxPDO0dqpcz7Hr7nTEp1wJ.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Tam Bir Centilmen - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/99810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Anunnakiler - 2024" tvg-logo="https://filmsiniflandirma.ktb.gov.tr/repo/Photos/bd048bc1-d4d3-4bb7-ba6f-0ec331c2d4ed.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Anunnakiler - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/99809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Deha - Son Bolum (02.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="V|TR: Pazar Dizileri",V|TR: Deha - Son Bolum (02.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/94396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Türkler Çıldırmış Olmalı 2: Mavi Vatan - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWs74yvAdZJ5LZzMyl7nXUoUfkE.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Türkler Çıldırmış Olmalı 2: Mavi Vatan - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/94372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Siyah Kalp - Son Bolum (06.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="V|TR: Perşembe Dizileri",V|TR: Siyah Kalp - Son Bolum (06.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/94370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Arap Kadri - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JnfCypNLU2zQFWqp96elodAA20.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Arap Kadri - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Leyla: Hayat. Aşk. Adalet. - Son Bolum (05.03.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="V|TR: Çarşamba Dizileri",V|TR: Leyla: Hayat. Aşk. Adalet. - Son Bolum (05.03.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Hep Yek: Aşiret - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxpKdkIFZvCqaSW95ykNI2v07hN.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Hep Yek: Aşiret - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bir Gece Masalı - Son Bolum (25.02.2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="V|TR: Salı Dizileri",V|TR: Bir Gece Masalı - Son Bolum (25.02.2025)
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Güneşi Söndürmem Gerek - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIFD4e7FKoW5DC1V8PQKaRX2cAU.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Güneşi Söndürmem Gerek - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Cenaze - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PVobYlOxqdyRiGZv3gSnXzYoTu.jpg" group-title="V|TR: Yerli Film 2023",V|TR: Cenaze - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ama - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BoO7DLwDQm0c9QAcy5uzOiZ5Rl.jpg" group-title="V|TR: Yerli Film 2022",V|TR: Ama - 2022
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Çömezler - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZoL7sVi9X3K1CAAsyPGnGUzDFH.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Çömezler - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Ziyaretçiler: Bölüm 1 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLZLXItUwAwmDdb0gDma7r9gxnX.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Ziyaretçiler: Bölüm 1 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kurtuluş - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFL8du98DvvfHWdEYSnzvAnjHOO.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Kurtuluş - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Arıcı: Ölüm Kovanı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WKkyMWaI1RdDjF2TSMp7ZMHn31.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Arıcı: Ölüm Kovanı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Suçlu ve Güçlü - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpfFlgQXPd3JKamIxZA3coRIinm.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Suçlu ve Güçlü - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Perde Arkası: İşaret Hırsızı - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64ktkHsKLMNxZkx86evJ5L6ac2a.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Perde Arkası: İşaret Hırsızı - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Muhteşem Fırsat - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egbM09M4XU03G75XVblyvZI6yr8.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Muhteşem Fırsat - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Gunner - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Gunner - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sevmek Yüzünden - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vis0l6EHLRkjOOB5HlNF1QN5By.jpg" group-title="V|TR: Yerli Film 2024",V|TR: Sevmek Yüzünden - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Toprak Uğruna - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llXvirrQKyKSmRf9kxYzb7EUWDl.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Toprak Uğruna - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Nice Girls - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyiclx8VegzLUpiLFXSIh1lt710.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Nice Girls - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Maymun Adam - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3cqh55cjh3CDXsT1d5qKFzHUw8.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Maymun Adam - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kung Fu Panda 4 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewHfahsUgKtvYJwmwVuNsKwkc39.jpg" group-title="V|TR: Animasyon Çizgi Film",V|TR: Kung Fu Panda 4 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Adaletin Eli - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g0xhdEiwfw7tv3qcPJVUbbbKB5.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Adaletin Eli - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Şeytan Ayini - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16s73RuRmmTtsjCuSh4fr03s1y5.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Şeytan Ayini - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Şeflerin Aşkı - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkFpAi4mRtjgNlPeiaoAUcAEsWl.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Şeflerin Aşkı - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Öğretmenler Odası - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1zq0mOqJp4oOkec3pLrVXInxro.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Öğretmenler Odası - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Çılgın Hırsız 4 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22eOFketrHdJeowW3FkkRJsrSHZ.jpg" group-title="V|TR: Animasyon Çizgi Film",V|TR: Çılgın Hırsız 4 - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Çifte Pazarlık - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmetjnIvBAfP20hqK9QcZxySgR.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Çifte Pazarlık - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Young Woman and the Sea - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Young Woman and the Sea - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Yeni Nesil: Kızıl'ın Yükselişi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pUnVz4E17F6DPKcOQ9VQfkUYel.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Yeni Nesil: Kızıl'ın Yükselişi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Wonderland - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AfZDB9X8iTF6VaacJIj5Lcb1bG.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Wonderland - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Meter i sekundet - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXZFOp04tVyjjFVURMCtRCndbM9.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Meter i sekundet - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Bay Blake Hizmetinizde! - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40jJVTGEgHM5gXuCFsUuZYz5JFj.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Bay Blake Hizmetinizde! - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Wanted Man - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Wanted Man - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: İsimsiz Kahraman - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61WsHKGoxLgaIiZSPoQ9kfyncyp.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: İsimsiz Kahraman - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Tyler Perry'den Zorlu Boşanma - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFdOUKsRlDwu0fci682DyI5cv55.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Tyler Perry'den Zorlu Boşanma - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Twisters - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: The Twisters - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: The Union - Birlik - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36ehY1RF36jwHPJmsWwzEchUVo9.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: The Union - Birlik - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Emeklilik Planı - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nXmxsUoMjKCLQu797sJkPG5IWC.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Emeklilik Planı - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Kara Şeytan - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Kara Şeytan - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Tetikte - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPjJeaJPNeH1F5u7RQXJJWYg9pA.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Tetikte - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Tarot - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Tarot - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Taken from Rio Bravo - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/N53KtTONRYWAGKiUBciHJHsyVB.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Taken from Rio Bravo - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Riskli Oyun - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mZEqviroRmVUori7V3z4SoYTzp.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Riskli Oyun - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sevgili David - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tDl2VBO52MwR6VqfyrTfUVefPU.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Sevgili David - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Sessiz Bir Yer: Birinci Gün - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5fIinw9HA7p4W97Bfsh47imW8y.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Sessiz Bir Yer: Birinci Gün - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Rekabet - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxn6NQ6qoTQPZhOKYxlXeJaPqTO.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Rekabet - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Rebel Moon - Part Two: The Scargiver - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Rebel Moon - Part Two: The Scargiver - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Puslu Sınır - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAfWKIXkfCB40f6WVNM16ngLU3g.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Puslu Sınır - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Popular Theory - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9MHehYsw5M5SoB4QQZNEmuaqH.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Popular Theory - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Paraşüt - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGwFRwsqkCX1eMsMZCD0tgGA8Fr.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Paraşüt - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Oppenheimer - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4JdkyE7AMJA8xODOfCC20pWvtU.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Oppenheimer - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Narsistle Aşk - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG3D8nnOHD56kCEoROvRSvXsp8O.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Narsistle Aşk - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Miller'ın Favorisi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfTlrN4a9mSGjDYfKv8l6zukBAx.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Miller'ın Favorisi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Mercy - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8voINwqMlscROrjhN97fGkmhvEV.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Mercy - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Maymunlar Cehennemi: Yeni Krallık - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tty533HQ3OiTAzdZRUnwOxPT2zm.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Maymunlar Cehennemi: Yeni Krallık - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Little Girl Blue - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xgdSKiFM8ydzY7tDXn2TCQYDiE.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2023",V|TR: Little Girl Blue - 2023
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Lisa Frankenstein - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Lisa Frankenstein - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V|TR: Lhakpa Sherpa: Everest'in Kraliçesi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BK1B6JQRxnLEc4vZyrUojdIiCq.jpg" group-title="V|TR: Yabancı Türkçe Dublaj 2024",V|TR: Lhakpa Sherpa: Everest'in Kraliçesi - 2024
+http://redpnlapk.com:8080/movie/c7B8fgeKJt98/ezeSyCtJSxFX/93703.mkv
