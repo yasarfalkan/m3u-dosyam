@@ -126,6 +126,22 @@ https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="Genel",A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt 1" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-11.png" group-title="TR TURKIYE",TR: Trt 1
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102306
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: Show Tv SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/showhd_logonew.png" group-title="TR TURKIYE",TR: Show Tv SD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/45242
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: Atv SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/atv-1.png" group-title="TR TURKIYE",TR: Atv SD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/45239
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: Kanal D SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal_d.png" group-title="TR TURKIYE",TR: Kanal D SD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/45240
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: Now Tv SD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/FOX-TV-FHD.png" group-title="TR TURKIYE",TR: Now Tv SD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/45244
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: Star Tv SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/star_tv.png" group-title="TR TURKIYE",TR: Star Tv SD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/45241
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: Tv8 SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tv8hd_logonew.png" group-title="TR TURKIYE",TR: Tv8 SD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/45243
+
+
 #EXTINF:-1 tvg-name="TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="Genel",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
@@ -168,28 +184,50 @@ https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
 
 # * » Spor « * #
-#EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SportsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-# ? http://stream.tvcdn.net/spor/sports-tv.m3u8/
-
-#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSHaber" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="Spor",beIN SPORTS Haber
-https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-# ? http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
-
-#EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
-http://stream.tvcdn.net/spor/tjk-tv.m3u8
-
-#EXTINF:-1 tvg-name="GS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_GSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG" group-title="Spor",GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-
-#EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
-http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 1 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102284
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 2 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102285
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 3 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102286
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 4 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102287
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/10/beIN-SPORTS-5-HD.png" group-title="TR BEIN SPOR",beIN SPORTS 5 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102288
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="TR BEIN SPOR",beIN SPORTS MAX 1 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102289
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="TR BEIN SPOR",beIN SPORTS MAX 2 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102290
+#EXTINF:-1 tvg-id="" tvg-name="S SPORTS 1 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-HD.png" group-title="TR BEIN SPOR",S SPORTS 1 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102291
+#EXTINF:-1 tvg-id="" tvg-name="S SPORTS 2 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2024/12/s-sport-2-hd.png" group-title="TR BEIN SPOR",S SPORTS 2 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102292
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 1 HD" tvg-logo="" group-title="TR BEIN SPOR",SMART SPOR 1 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102300
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2 HD" tvg-logo="" group-title="TR BEIN SPOR",SMART SPOR 2 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102301
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102293
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 1 HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR 1 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102294
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 2 HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR 2 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102295
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 3 HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR 3 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102296
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR 4 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102297
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 5 HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR 5 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102298
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 6 HD" tvg-logo="" group-title="TR BEIN SPOR",TABII SPOR 6 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102299
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="" group-title="TR BEIN SPOR",TIVIBUSPOR 1 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102302
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="" group-title="TR BEIN SPOR",TIVIBUSPOR 2 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102303
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="" group-title="TR BEIN SPOR",TIVIBUSPOR 3 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102304
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 4 HD" tvg-logo="" group-title="TR BEIN SPOR",TIVIBUSPOR 4 HD
+http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102305
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
