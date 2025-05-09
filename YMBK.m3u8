@@ -41,35 +41,6 @@ https://v.arectv29.sbs/static/bm1.m3u8
 
 #EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 2 [HD]
 https://v.arectv29.sbs/static/bm2.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [VİP]⚡️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 1 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinzirve.m3u8
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [İNAT]⚡️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 1 [İNAT]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayininat.m3u8
-
-#EXTINF:-1 tvg-name="BeIN SPORTS 2 [VİP]⚡️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 2 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb2.m3u8
-
-#EXTINF:-1 tvg-name="BeIN SPORTS 3 [VİP]⚡️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 3 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb3.m3u8
-
-#EXTINF:-1 tvg-name="BeIN SPORTS 4 [VİP]⚡️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 4 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb4.m3u8
-
-#EXTINF:-1 tvg-name="BeIN SPORTS 5 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 5 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb5.m3u8
 
 #EXTINF:-1 tvg-id="149" tvg-name="BeIN SPORTS 1" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS [EXTRA]",BeIN SPORTS 1
 http:\\it1.com.mx:80\Freesaku\Freesaku\2737
