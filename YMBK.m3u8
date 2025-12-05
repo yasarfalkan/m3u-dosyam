@@ -678,6 +678,21 @@ http://veldoremek.duckdns.org/unix/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="GETROK",BEIN SPORTS FEED (OZEL FEED YAYIN) |D
 http://veldoremek.duckdns.org/unix/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NTM2OTIzMTQyMzc3MWI1OTUyODk=
 
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" group-title="TURKIYE DEATHLESS",beIN SPORTS HD1
+#EXTVLCOPT:http-referrer=https://inatspor.xyz/
+http://tv.inat.workers.dev/?ID=yayinzirve.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD2.png" group-title="TURKIYE DEATHLESS",beIN SPORTS HD2
+#EXTVLCOPT:http-referrer=https://inatspor.xyz/
+http://tv.inat.workers.dev/?ID=yayinb2.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="TURKIYE DEATHLESS",beIN SPORTS HD3
+#EXTVLCOPT:http-referrer=https://inatspor.xyz/
+http://tv.inat.workers.dev/?ID=yayinb3.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="TURKIYE DEATHLESS",beIN SPORTS HD4
+#EXTVLCOPT:http-referrer=https://inatspor.xyz/
+http://tv.inat.workers.dev/?ID=yayinb4.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports5.png" group-title="TURKIYE DEATHLESS",beIN SPORTS HD5
+#EXTVLCOPT:http-referrer=https://inatspor.xyz/
+http://tv.inat.workers.dev/?ID=yayinb5.m3u8
 
 
 
