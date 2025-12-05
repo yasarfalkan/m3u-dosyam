@@ -694,6 +694,29 @@ http://tv.inat.workers.dev/?ID=yayinb4.m3u8
 #EXTVLCOPT:http-referrer=https://inatspor.xyz/
 http://tv.inat.workers.dev/?ID=yayinb5.m3u8
 
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 (TEST YAYIN - BETA)" group-title="BilyonerSport",BEIN SPORTS 1 (TEST YAYIN - BETA)
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/n746933ec/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="BilyonerSport",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/n7468bf8d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="BilyonerSport",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/n2c7aa492/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="BilyonerSport",BEIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/n2c7a3033/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="BilyonerSport",BEIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/n2c79bbd4/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="BilyonerSport",BEIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/55ccbf54/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
 
 
 
