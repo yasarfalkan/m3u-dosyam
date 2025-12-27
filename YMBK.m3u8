@@ -72,7 +72,32 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NTM2OTIzMTQyMzc3MWI1OTUyODk=
 
-
+#EXTINF:-1 tvg-id="bs1.tr" tvg-name="beIN Sport 1 HD" group-title="DTH-Panel",TR: beIN Sport 1 HD
+https://dth.meno24074.workers.dev/bs1.m3u8
+#EXTINF:-1 tvg-id="bs2.tr" tvg-name="beIN Sport 2 HD" group-title="DTH-Panel",TR: beIN Sport 2 HD
+https://dth.meno24074.workers.dev/bs2.m3u8
+#EXTINF:-1 tvg-id="bs3.tr" tvg-name="beIN Sport 3 HD" group-title="DTH-Panel",TR: beIN Sport 3 HD
+https://dth.meno24074.workers.dev/bs3.m3u8
+#EXTINF:-1 tvg-id="bs4.tr" tvg-name="beIN Sport 4 HD" group-title="DTH-Panel",TR: beIN Sport 4 HD
+https://dth.meno24074.workers.dev/bs4.m3u8
+#EXTINF:-1 tvg-id="bs5.tr" tvg-name="beIN Sport 5 HD" group-title="DTH-Panel",TR: beIN Sport 5 HD
+https://dth.meno24074.workers.dev/bs5.m3u8
+#EXTINF:-1 tvg-id="bm1.tr" tvg-name="beIN Movies 1" group-title="DTH-Panel",TR: beIN Movies 1
+https://dth.meno24074.workers.dev/bm1/index.m3u8
+#EXTINF:-1 tvg-id="bm2.tr" tvg-name="beIN Movies 2" group-title="DTH-Panel",TR: beIN Movies 2
+https://dth.meno24074.workers.dev/bm2/index.m3u8
+#EXTINF:-1 tvg-id="ss11.tr" tvg-name="S Sport 1 HD" group-title="DTH-Panel",TR: S Sport 1 HD
+https://dth.meno24074.workers.dev/ss11.m3u8
+#EXTINF:-1 tvg-id="ss2.tr" tvg-name="S Sport 2 HD" group-title="DTH-Panel",TR: S Sport 2 HD
+https://dth.meno24074.workers.dev/ss2.m3u8
+#EXTINF:-1 tvg-id="smart1.tr" tvg-name="Smart Spor 1" group-title="DTH-Panel",TR: Smart Spor 1
+https://dth.meno24074.workers.dev/smart1.m3u8
+#EXTINF:-1 tvg-id="smart2.tr" tvg-name="Smart Spor 2" group-title="DTH-Panel",TR: Smart Spor 2
+https://dth.meno24074.workers.dev/smart2.m3u8
+#EXTINF:-1 tvg-id="t1.tr" tvg-name="Tivibu Spor 1" group-title="DTH-Panel",TR: Tivibu Spor 1
+https://dth.meno24074.workers.dev/t1.m3u8
+#EXTINF:-1 tvg-id="t2.tr" tvg-name="Tivibu Spor 2" group-title="DTH-Panel",TR: Tivibu Spor 2
+https://dth.meno24074.workers.dev/t2.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://hizliresim.com/nou9g0g" group-title="SNRBZKRT SPOR YAYINLARI",TR:beIN Sport 1 HD
 https://biraz.6781237.xyz/checklist/androstreamlivebs1.m3u8
@@ -717,6 +742,7 @@ https://api.bilyonersport.com/channel/n2c79bbd4/index.m3u8?q=eyJ1c2VySWQiOiJhZG1
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="BilyonerSport",BEIN SPORTS 5
 #EXTVLCOPT:http-referrer=https://bilyonersport1.com/
 https://api.bilyonersport.com/channel/55ccbf54/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
+
 
 
 
