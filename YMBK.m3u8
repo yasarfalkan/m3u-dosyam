@@ -1394,6 +1394,38 @@ https://andro.3749206.xyz/checklist/androstreamliveexn7.m3u8
 #EXTVLCOPT:http-referrer=https://8602741.xyz/event.html?id=androstreamlivebs1
 https://andro.3749206.xyz/checklist/androstreamliveexn8.m3u8
 
+#EXTINF:-1 tvg-id="bs1.tr" tvg-name="beIN Sport 1 HD" group-title="DTH-Panel",TR: beIN Sport 1 HD
+https://dth.meno24074.workers.dev/bs1.m3u8
+#EXTINF:-1 tvg-id="bs2.tr" tvg-name="beIN Sport 2 HD" group-title="DTH-Panel",TR: beIN Sport 2 HD
+https://dth.meno24074.workers.dev/bs2.m3u8
+#EXTINF:-1 tvg-id="bs3.tr" tvg-name="beIN Sport 3 HD" group-title="DTH-Panel",TR: beIN Sport 3 HD
+https://dth.meno24074.workers.dev/bs3.m3u8
+#EXTINF:-1 tvg-id="bs4.tr" tvg-name="beIN Sport 4 HD" group-title="DTH-Panel",TR: beIN Sport 4 HD
+https://dth.meno24074.workers.dev/bs4.m3u8
+#EXTINF:-1 tvg-id="bs5.tr" tvg-name="beIN Sport 5 HD" group-title="DTH-Panel",TR: beIN Sport 5 HD
+https://dth.meno24074.workers.dev/bs5.m3u8
+#EXTINF:-1 tvg-id="bm1.tr" tvg-name="beIN Movies 1" group-title="DTH-Panel",TR: beIN Movies 1
+https://dth.meno24074.workers.dev/bm1.m3u8
+#EXTINF:-1 tvg-id="bm2.tr" tvg-name="beIN Movies 2" group-title="DTH-Panel",TR: beIN Movies 2
+https://dth.meno24074.workers.dev/bm2.m3u8
+#EXTINF:-1 tvg-id="ss11.tr" tvg-name="S Sport 1 HD" group-title="DTH-Panel",TR: S Sport 1 HD
+https://dth.meno24074.workers.dev/ss11.m3u8
+#EXTINF:-1 tvg-id="ss2.tr" tvg-name="S Sport 2 HD" group-title="DTH-Panel",TR: S Sport 2 HD
+https://dth.meno24074.workers.dev/ss2.m3u8
+#EXTINF:-1 tvg-id="smart1.tr" tvg-name="Smart Spor 1" group-title="DTH-Panel",TR: Smart Spor 1
+https://dth.meno24074.workers.dev/smart1.m3u8
+#EXTINF:-1 tvg-id="smart2.tr" tvg-name="Smart Spor 2" group-title="DTH-Panel",TR: Smart Spor 2
+https://dth.meno24074.workers.dev/smart2.m3u8
+#EXTINF:-1 tvg-id="t1.tr" tvg-name="Tivibu Spor 1" group-title="DTH-Panel",TR: Tivibu Spor 1
+https://dth.meno24074.workers.dev/t1.m3u8
+#EXTINF:-1 tvg-id="t2.tr" tvg-name="Tivibu Spor 2" group-title="DTH-Panel",TR: Tivibu Spor 2
+https://dth.meno24074.workers.dev/t2.m3u8
+#EXTINF:-1 tvg-id="t3.tr" tvg-name="Tivibu Spor 3" group-title="DTH-Panel",TR: Tivibu Spor 3
+https://dth.meno24074.workers.dev/t3.m3u8
+#EXTINF:-1 tvg-id="euro1.tr" tvg-name="Eurosport 1" group-title="DTH-Panel",TR: Eurosport 1
+https://dth.meno24074.workers.dev/euro1.m3u8
+#EXTINF:-1 tvg-id="euro2.tr" tvg-name="Eurosport 2" group-title="DTH-Panel",TR: Eurosport 2
+https://dth.meno24074.workers.dev/euro2.m3u8
 
 
 
