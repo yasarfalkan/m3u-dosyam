@@ -44,20 +44,7 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tv 100 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Tv 100 HD
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Kon HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6a265ee4-81f8-4a57-80ba-41ddb0663aaf.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Kon HD
-https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/sh/kon_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Cnbc-e HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Cnbc-e HD
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Gzt Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Gzt Tv HD
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Kanal B HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fc190867-720b-4e57-b561-993d0a02bcae.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Kanal B HD
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Tyt Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6c2e739-0336-4e34-9f27-38e181522363.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Tyt Türk HD
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Tmb HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3d8f616d-a421-4fcd-a13a-1a29e3bbd88c.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Tmb HD
-https://str.yodacdn.net/tmb_tr_app/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Tv 4 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Tv 4 HD
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:Bengü Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6edd1622-84fd-4ebf-a50b-7e95787ee427.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Bengü Türk HD
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Haber  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Trt Haber  HD
@@ -74,8 +61,6 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Haber Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/516aa59e-70a2-4be3-9077-02862a052fde.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Haber Türk HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Bloomberg Ht HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Bloomberg Ht HD
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Ülke Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/5a733c68-7739-4466-851d-573cfd125990.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Ülke Tv HD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tvnet HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" group-title="SONER BOZKURT YERLİ KANALLAR",TR:Tvnet HD
@@ -1280,6 +1265,7 @@ https://dth.meno24074.workers.dev/t3.m3u8
 https://dth.meno24074.workers.dev/euro1.m3u8
 #EXTINF:-1 tvg-id="euro2.tr" tvg-name="Eurosport 2" group-title="DTH-Panel",TR: Eurosport 2
 https://dth.meno24074.workers.dev/euro2.m3u8
+
 
 
 
