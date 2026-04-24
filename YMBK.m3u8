@@ -23,8 +23,8 @@ http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2207&extens
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2206&extension=ts&play_token=IE1XBxnI5H
 #EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 2💫 12.Bölüm
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2205&extension=ts&play_token=JhOqSfkoEZ
-
-
+#EXTINF:-1 group-title="💫BEİN SİNEMA💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫CİNEMAXİMUM💫 
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=591398&extension=ts&play_token=8lxTguHPCP
 
 
 #EXTINF:-1 group-title="💫TABBI DIZI💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,Gassal 3.Sezon 1.Bölüm
