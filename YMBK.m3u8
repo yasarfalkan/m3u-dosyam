@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,Bein1
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2216&extension=ts&play_token=MNBxBqrRfs
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,bein1 hd
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2197&extension=ts&play_token=lpq0W0qNnY
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 3.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=585506&extension=ts&play_token=Y5IpZ82x2I
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 4.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2198&extension=ts&play_token=s4K1RMLhpF
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 5.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=618459&extension=ts&play_token=BkY5A84mkN
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 6.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2199&extension=ts&play_token=CA1JxFOWWp
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 7.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=622706&extension=ts&play_token=7C0WrukpP4
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 8.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2201&extension=ts&play_token=SFgzIu6Ng9
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 1💫 9.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=622707&extension=ts&play_token=rgZQBc5YVH
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 2💫 10.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2207&extension=ts&play_token=WJB6XbBbQt
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 2💫 11.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2206&extension=ts&play_token=IE1XBxnI5H
+#EXTINF:-1 group-title="💫BEİNSPORTS BENİM💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,💫BEİNSPORTS 2💫 12.Bölüm
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:05:E8:C4&stream=2205&extension=ts&play_token=JhOqSfkoEZ
+
+
+
+
 #EXTINF:-1 group-title="💫TABBI DIZI💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,Gassal 3.Sezon 1.Bölüm
 https://vidservh1k4.ifsaembed.site/f872007a-cba0-4f19-9317-5ec8c0498226.mp4
 #EXTINF:-1 group-title="💫TABBI DIZI💫"tvg-logo="https://i.ibb.co/rGj5RQ7t/gassal3.jpg" ,Gassal 3.Sezon 2.Bölüm
